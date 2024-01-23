@@ -6,7 +6,7 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://github.com/Jgbergen18'}
-- {icon: 'linkedin', link: 'www.linkedin.com/in/jamiebergen'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jamiebergen/'}
 
 contacts:
-- {name: 'Jamie Bergen',  phone: '2036448464', email: 'jgbergen18@gmail.com', image: 'assets/img/contact.jpg'}
+- {name: 'Jamie Bergen', phone: '2036448464', email: 'jgbergen18@gmail.com', image: 'assets/img/contact.jpg'}
