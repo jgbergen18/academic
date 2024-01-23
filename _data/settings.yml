@@ -5,10 +5,8 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/Jgbergen18'}
+- {icon: 'linkedin', link: 'www.linkedin.com/in/jamiebergen'}
 
 contacts:
 - {name: 'Jamie Bergen',  phone: '2036448464', email: 'jgbergen18@gmail.com', image: 'assets/img/contact.jpg'}
