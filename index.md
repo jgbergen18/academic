@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Hello! My name is Jamie Bergen. I'm putting whatever I want on this website. I recently graduated college and am currently working for the Oklahoma Tax Commission. My primary interests however are in computational neuroscience, I hope to attend graduate school to conduct cutting edge research in this field. 
