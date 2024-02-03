@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Website!"
+title: "My First Website"
 ---
 
 Hello!
