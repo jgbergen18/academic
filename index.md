@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-My name is Jamie Bergen and I am a passionate learner and explorer of the intersection between biology, data, and intelligence. I created this website on January 24th, 2024, to share my prevous work, projects, and reflections  Please bear with me as I add more content and features to this site.
+My name is Jamie Bergen and I am a passionate learner and explorer of the intersection between biology, data, and intelligence. I created this website on January 24th, 2024, to share my previous work, projects, and reflections  Please bear with me as I add more content and features to this site.
 
 A little bit about me: I graduated from Barnard College in May 2023 and double majored in neuroscience and behavior and computer science. During my undergraduate studies, I was involved in several research projects on the intersections between the immune system, genetics, and neurological disorders. I am most proud of the research I conducted for my senior thesis that contributed to the publication of the paper: Interaction of an a-synuclein epitope with HLA-DRB1*15:01 recapitulates enteric features associated with prodromal Parkinson’s disease in mice. 
 
