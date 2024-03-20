@@ -11,7 +11,7 @@ social:
 contacts:
 - {name: 'Jamie Bergen', phone: '2036448464', email: 'jgbergen18@gmail.com', linkedin: 'https://www.linkedin.com/in/jamiebergen/',  image: 'assets/img/contact.jpg'}
 
-project:
+projects:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
