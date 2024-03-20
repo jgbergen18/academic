@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: default
 title: "Projects"
 ---
 My name is Jamie Bergen and I am a passionate learner and explorer of the intersection between biology, data, and intelligence. I created this website on January 24th, 2024, to share my previous work, projects, and reflections  Please bear with me as I add more content and features to this site.
