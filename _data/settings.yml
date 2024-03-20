@@ -1,6 +1,6 @@
 menu:
 - {name: 'publications', url: '/publications'}
-- {name: 'Projects', url: ''}
+- {name: 'projects', url: ''}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -11,12 +11,7 @@ social:
 contacts:
 - {name: 'Jamie Bergen', phone: '2036448464', email: 'jgbergen18@gmail.com', linkedin: 'https://www.linkedin.com/in/jamiebergen/',  image: 'assets/img/contact.jpg'}
 
-#-------------------------------
-# Projects Section
-
-projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+project:
+- {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Stellar Structures', url: 'stellar-structures'}
