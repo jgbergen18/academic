@@ -3,10 +3,10 @@ layout: page
 title: "Neuron Counting Neural Network"
 ---
 
-#### Medium Article
+# Neuron Counting Neural Network
 
-[Medium Article](/projects/work-in-progress/Neuron_Counting_Neural_Network.pdf)
+Check out this fascinating article on neuron counting neural networks:
 
+[Neuron Counting Neural Network](https://medium.com/@jgb2162/neuron-counting-neural-network-c2340391d756)
 
-
-
+Enjoy the read!
