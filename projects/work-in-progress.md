@@ -1,19 +1,11 @@
 ---
 layout: page
-title: "Work in Progress"
+title: "Neuron Counting Neural Network"
 ---
 
-#### Course Information
+#### Medium Article
 
-[Course Outline](/projects/work-in-progress/Sample_Course_Outline.pdf)
-
-#### Lecture Notes
-
-[Lecture 1](/projects/work-in-progress/Sample_Lecture_Notes.pdf)
-
-[Lecture 2](/projects/work-in-progress/Sample_Lecture_Notes.pdf)
-
-[Lecture 3](/projects/work-in-progress/Sample_Lecture_Notes.pdf)
+[Medium Article](/projects/work-in-progress/Neuron_Counting_Neural_Network.pdf)
 
 
 
