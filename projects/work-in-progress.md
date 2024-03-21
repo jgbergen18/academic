@@ -15,8 +15,6 @@ title: "Work in Progress"
 
 [Lecture 3](/projects/work-in-progress/Sample_Lecture_Notes.pdf)
 
-#### Homework
 
-[Homework 1](/projects/work-in-progress/Sample_Lecture_Notes.pdf)
 
 
