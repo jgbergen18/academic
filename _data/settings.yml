@@ -12,5 +12,6 @@ contacts:
 - {name: 'Jamie Bergen', phone: '2036448464', email: 'jgbergen18@gmail.com', linkedin: 'https://www.linkedin.com/in/jamiebergen/',  image: 'assets/img/contact.jpg'}
 
 projects:
+- {name: 'Parkinsons Disease Research: ', url: 'PD-research'}
 - {name: 'Neuron Counting Neural Network', url: 'neuron-counting-neural-network'}
 
