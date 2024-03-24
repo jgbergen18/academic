@@ -1,6 +1,2 @@
----
-layout: publications
-title: "Parkinson's Disease Research"
----
 
 I worked as a research assistant in the Agalliu Lab from September 2021 to May 2023. In this time I studied the role of the immune system in the gut in the progression of Parkinson's Disease (PD). I my experiments focused on staining and immaging gut and brain tissue for dopaminergic neurons, microglia, and inflammatory markers in an aged mouse model of PD. The model we used were mice expressing the HLA-DRB1*15:01 allele, that were injected with alpha-synuclein peptides. This work became my undergraduate thesis and contributed to the paper: Interaction of an a-synuclein epitope with HLA-DRB1*15:01 recapitulates enteric features associated with prodromal Parkinson’s disease in mice” published in Neuron. Getting to participate in the scientific process at this high level was incredibly enlightening and exciting. You can read the Neuron paper under the Publications section of this website. 
