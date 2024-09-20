@@ -1,6 +1,6 @@
-# academic
+# Jamie Bergen
 
-### A Jekyll theme for academia
+### Welcome to my Website
 
 ![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
 
