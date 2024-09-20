@@ -9,6 +9,6 @@ A little bit about me: I graduated from Barnard College of Columbia Univeristy i
 
 My primary fields of interest are in machine intelligence, data science, as well as neuromorphic computing. These interests highlight an underlying passion to better understand the nature of intelligence, machine or otherwise. I believe all of these fields will help to better understand how we make decisions, the mechanics of cognition and even the organization of the brain.
 
-In October I will be embarking on a journey to attain a masters degree in brain and data science through the Erasmus Mundus Joint Masters Scholarship. My first year of the program will be spent in Ramat Gan, Israel, and the Second year will be spent in Lisbon, Portugal. I feel incredibly excited and fortunate to have been awarded this opportunity and I will post updates as the program progresses.
+In October I will begin a masters degree in brain and data science through the Erasmus Mundus Joint Masters Scholarship. My first year of the program will be spent in Ramat Gan, Israel, and the Second year will be spent in Lisbon, Portugal. I feel incredibly excited and fortunate to have been awarded this opportunity and I will post updates as the program progresses.
 
 I hope you find something interesting and useful on my website. Feel free to contact me if you have any questions, comments, or suggestions. Thank you!
