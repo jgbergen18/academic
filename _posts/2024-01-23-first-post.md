@@ -3,6 +3,7 @@ layout: post
 title: "My First Website"
 date: 2024-01-23
 categories: blog
+permalink: /:categories/:title/
 ---
 
 Hello!
