@@ -4,11 +4,18 @@ title: posts
 permalink: /posts/
 ---
 
-<h2>Monthly Posts</h2>
-<div class="row g-5 mb-5">
+<h3 class="mt-5 text-center">Monthly Posts</h3>
+<div class="row g-4 mb-4">
   <div class="col-md-12">
-    {% for post in site.posts %}
-      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
-    {% endfor %}
+    <ul class="list-unstyled">
+      {% for post in site.posts %}
+        <li class="mb-2">
+          <a href="{{ site.github.url }}{{ post.url }}" class="text-decoration-none">
+            <strong>{{ post.title }}</strong>
+          </a>
+          <span class="text-muted">- {{ post.date | date: "%B %-d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
   </div>
 </div>
