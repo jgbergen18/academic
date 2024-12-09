@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Posts
+title: posts
 permalink: /posts/
 ---
 
-<h1>Posts</h1>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
+<div class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h3 class="fw-bold border-bottom pb-3 mb-5">{{ page.title }}</h3>
+    {{ content }}
+  </div>
+</div>
