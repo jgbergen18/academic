@@ -3,6 +3,7 @@ menu:
 - {name: 'projects', url: '/projects'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
+- {name: 'Posts', url: '/posts'}
 
 social:
 - {icon: 'github', link: 'https://github.com/Jgbergen18'}
