@@ -2,8 +2,7 @@
 ---
 
 /* Import partials from the _sass folder */
-@import "variables"; /* If you have a _variables.scss file */
-@import "base";      /* If you have a _base.scss file */
+@import "main";      /* If you have a _base.scss file */
 
 /* Global styles */
 body {
